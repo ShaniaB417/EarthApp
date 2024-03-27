@@ -30,7 +30,7 @@ This project involves developing an iOS app using Apple Vision Pro framework. Th
 - [RealityKit Documentation](https://developer.apple.com/documentation/realitykit)
 - [SceneKit Documentation](https://developer.apple.com/documentation/scenekit)
 - [Xcode Documentation](https://developer.apple.com/documentation/xcode)
-- [GitHub Guides](https://guides.github.com/)
+
 
 ## Photos :
 
